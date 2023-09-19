@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://astro-paper.pages.dev/",
   author: "Phong Vu",
   desc: "Welcome to my blog, hope you enjoy!",
-  title: "Blog | Phong",
+  title: "Blog | Phongg",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
